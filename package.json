@@ -1,0 +1,23 @@
+{
+  "name": "vue-director",
+  "version": "0.0.1",
+  "description": "Vue Director is a VueJS plugin that adds the director router to VueJS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom",
+  "license": "MIT",
+  "dependencies": {
+    "domify": "^1.2.2",
+    "vue": "^0.10.5"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "VueJS",
+    "Router"
+  ]
+}
