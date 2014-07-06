@@ -12,10 +12,13 @@
   "author": "Tom",
   "license": "MIT",
   "dependencies": {
-    "domify": "^1.2.2",
+    "director": "^1.2.3",
+    "underscore": "^1.6.0",
     "vue": "^0.10.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "domify": "^1.2.2"
+  },
   "keywords": [
     "VueJS",
     "Router"
